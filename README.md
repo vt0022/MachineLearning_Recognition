@@ -16,10 +16,10 @@
 -	Train để chọn ra model tốt nhất trên Google Colab.
 -	Link dataset: https://www.kaggle.com/datasets/hammaadali/insects-recognition
 -	Link tham khảo mã nguồn: https://www.kaggle.com/code/aryashah2k/insect-village-synthetic-data-classification/data
-### 2.Sign language recognition
+### 2. Sign language recognition
 -	Bộ dữ liệu của MUHAMMAD KHALID trên kaggle.
 -	Gồm 40500 file ảnh với 26 folder tương ứng với 26 ký tự tiếng Anh và 1 folder ảnh ngoại lệ.
 -	Sample có kích thước vừa phải để train.
--	Training chọn ra model tốt nhất trên Google Colab.
+-	Train để chọn ra model tốt nhất trên Google Colab.
 -	Link dataset: https://www.kaggle.com/datasets/muhammadkhalid/sign-language-for-alphabets
 -	Link tham khảo mã nguồn: https://www.kaggle.com/code/shamshairali007/sign-language
